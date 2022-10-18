@@ -7,6 +7,9 @@ TreeGAN: https://github.com/jtpils/TreeGAN
 Superquadrics Revisited: https://github.com/paschalidoud/superquadric_parsing
 
 ## ShapeNet data (following TreeGAN):
+On the google drive:
+
+add the data in the path: data/datasetTreeGAN/
 
 ## Environment:
 PyTorchEMD: https://github.com/daerduoCarey/PyTorchEMD
