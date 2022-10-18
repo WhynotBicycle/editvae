@@ -11,6 +11,11 @@ On the google drive:
 
 add the data in the path: data/datasetTreeGAN/
 
+## Training:
+All the training, generation, and visualizations are in file code/evae.py by running: CUDA_VISIBLE_DEVICES=0 python code/oVAEs/evae.py
+
+The model of EditVAE is mainly in code/oVAEs/sVAEs_module.py
+
 ## Environment:
 PyTorchEMD: https://github.com/daerduoCarey/PyTorchEMD
 
