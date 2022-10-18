@@ -3,13 +3,24 @@
 
 ## repo included:
 TreeGAN: https://github.com/jtpils/TreeGAN
+
 Superquadrics Revisited: https://github.com/paschalidoud/superquadric_parsing
 
 ## ShapeNet data (following TreeGAN):
 
 ## Environment:
 PyTorchEMD: https://github.com/daerduoCarey/PyTorchEMD
+mayavi (for visualization): https://github.com/enthought/mayavi
 
+torch
+numpy
+subprocess
+mplot3d
+
+## Measurements:
+re-implemented Minimum Matching Distance (MMD) and Coverage (COV)
+
+Jensen-Shannon Divergence (JSD) is mainly from the code of rGAN: https://github.com/optas/latent_3d_points
 
 ## Citation:
 If you found this work influential or helpful for your research, please consider citing:
