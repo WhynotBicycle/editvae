@@ -10,6 +10,7 @@ Superquadrics Revisited: https://github.com/paschalidoud/superquadric_parsing
 
 ## Environment:
 PyTorchEMD: https://github.com/daerduoCarey/PyTorchEMD
+
 mayavi (for visualization): https://github.com/enthought/mayavi
 
 torch
