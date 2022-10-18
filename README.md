@@ -13,9 +13,14 @@ PyTorchEMD: https://github.com/daerduoCarey/PyTorchEMD
 mayavi (for visualization): https://github.com/enthought/mayavi
 
 torch
+
 numpy
+
 subprocess
+
 mplot3d
+
+sklearn
 
 ## Measurements:
 re-implemented Minimum Matching Distance (MMD) and Coverage (COV)
