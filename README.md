@@ -7,7 +7,7 @@ TreeGAN: https://github.com/jtpils/TreeGAN
 Superquadrics Revisited: https://github.com/paschalidoud/superquadric_parsing
 
 ## ShapeNet data (following TreeGAN):
-On the google drive:
+On the google drive: https://drive.google.com/file/d/1IoWIjcuGn0yhMe-c4WPTBIbjkYVM1YR4/view?usp=sharing
 
 add the data in the path: data/datasetTreeGAN/
 
